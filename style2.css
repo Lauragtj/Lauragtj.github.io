@@ -20,7 +20,7 @@
 body {
     background-image:url(img/home/cemento.jpg);
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
     color:black;
     font-size: 18;
     width: 100%;
