@@ -70,7 +70,7 @@ nav a:hover {
 
 #portadaart {
     height: 500px;
-    width: 450px;
+    width: 100%;
     background-image: url(img/artes/pinceles.png);
     background-size: cover;
     background-position: center;
@@ -85,7 +85,7 @@ nav a:hover {
 
 #portadarest {
     height: 500px;
-    width: 450px;
+    width: 100%;
     background-image: url(img/restauracion/ruinas.png);
     background-size: cover;
     background-position: center;
@@ -101,7 +101,7 @@ nav a:hover {
 
 #portadadis {
     height: 500px;
-    width: 450px;
+    width: 100%;
     background-image: url(img/design/distone.png);
     background-size: cover;
     background-position: center;
@@ -343,6 +343,10 @@ nav a:hover {
 @media only screen and (max-width: 600px) {
  #portfolio a{
     transform: scale(60%);
+    }
+@media only screen and (max-width: 450px) {
+ #portadaart{
+    with: 100%;
     }
 }
 
