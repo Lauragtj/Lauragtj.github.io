@@ -35,6 +35,7 @@ html {
 
 body {
     background-color: black;
+    background-size: cover;
     width: 100%;
     margin: 0;
 }
@@ -69,7 +70,7 @@ nav a:hover {
 
 #portadaart {
     height: 500px;
-    width: 100%;
+    width: 450px;
     background-image: url(img/artes/pinceles.png);
     background-size: cover;
     background-position: center;
@@ -84,7 +85,7 @@ nav a:hover {
 
 #portadarest {
     height: 500px;
-    width: 100%;
+    width: 450px;
     background-image: url(img/restauracion/ruinas.png);
     background-size: cover;
     background-position: center;
@@ -100,7 +101,7 @@ nav a:hover {
 
 #portadadis {
     height: 500px;
-    width: 100%;
+    width: 450px;
     background-image: url(img/design/distone.png);
     background-size: cover;
     background-position: center;
