@@ -168,6 +168,7 @@ nav a:hover {
 #contenedor {
     display: grid;
     justify-items: center;
+    width: auto;
 }
 
 #abierto img {
