@@ -67,7 +67,6 @@ nav a:hover {
     text-decoration-style: solid;
 }
 
-
 #portadaart {
     height: 500px;
     width: auto;
@@ -332,7 +331,7 @@ nav a:hover {
  
 @media only screen and (max-width: 600px) {
  .galeria {
-     width: 400px;
+     width: 300px;
      }
 }
 @media only screen and (max-width: 600px) {
@@ -346,9 +345,7 @@ nav a:hover {
  #portfolio a{
     transform: scale(60%);
     }
- .galería {
-   transform: scale(60%);
-}
+ 
 
 
 
