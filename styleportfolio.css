@@ -183,6 +183,7 @@ nav a:hover {
     margin: 5% 25% 10% 25%;
     align-self: center;
     overflow: auto;
+    width: auto;
 }
 
 .galeria img{
