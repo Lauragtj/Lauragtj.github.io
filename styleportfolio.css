@@ -331,7 +331,7 @@ nav a:hover {
  
 @media only screen and (max-width: 600px) {
  .galeria {
-     width: 300px;
+     width: auto;
      }
 }
 @media only screen and (max-width: 600px) {
