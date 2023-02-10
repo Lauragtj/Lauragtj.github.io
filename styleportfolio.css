@@ -117,6 +117,8 @@ nav a:hover {
     display: grid;
     display: flex;
     grid-gap: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
 }
 
 #frase {
@@ -136,7 +138,7 @@ nav a:hover {
     display: grid;
     justify-items: center;
     align-items: center;
-    padding: 10%;
+    width:auto;
 }
 
 #portfolio a {
@@ -337,7 +339,7 @@ nav a:hover {
 @media only screen and (max-width: 600px) {
  #contenido {
      width: 300px;
-     display:flex;
+     display: none;
      }
 }
 
