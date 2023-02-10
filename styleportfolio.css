@@ -182,10 +182,10 @@ nav a:hover {
 
 .galeria {
     display: flex;
-    margin: 5% 25% 10% 25%;
+    margin: 10% 10%;
     align-self: center;
     overflow: auto;
-    width: auto;
+    width: 80%;
 }
 
 .galeria img{
@@ -347,6 +347,7 @@ nav a:hover {
  #portfolio a{
     transform: scale(60%);
     }
+  
 @media only screen and (max-width: 600px) {
  nav a{
     font-family: 20;
