@@ -127,7 +127,7 @@ nav a:hover {
     padding-top: 8%;
     padding-right: 5%;
     font-family: Louis;
-    font-size: 28;
+    font-size: 18;
 }
 
 #dicho {
@@ -338,7 +338,7 @@ nav a:hover {
 }
 @media only screen and (max-width: 600px) {
  #contenido {
-     width: 300px;
+     width: auto;
      display: none;
      }
 }
