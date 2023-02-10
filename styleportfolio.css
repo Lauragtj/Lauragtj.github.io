@@ -331,7 +331,7 @@ nav a:hover {
 }
 
  
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 450px) {
  .galeria {
      width: 300px;
      }
@@ -339,7 +339,7 @@ nav a:hover {
 @media only screen and (max-width: 600px) {
  #contenido {
      width: auto;
-     display: grid;
+     display:grid;
      }
 }
 
@@ -347,7 +347,10 @@ nav a:hover {
  #portfolio a{
     transform: scale(60%);
     }
- 
+@media only screen and (max-width: 600px) {
+ nav a{
+    font-family: 20;
+    }
 
 
 
